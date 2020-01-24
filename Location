@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    <style>
+        
+        #carouselExampleIndicators {
+            text-align: center;
+            margin: auto;
+        }
+        .carousel-inner img {
+            margin: auto;
+        }
+    </style>
+
+</head>
+<h1 style="font-family: freestyle script; text-align:center; font-size: 531%">Papa's Pizzeria</h1>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div border="5" class="collapse navbar-collapse" style = "font-family:freestyle script; font-size: 150%"id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="home.html">Home</a>
+            </li>
+            <a class="nav-link" href="#">Menu <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Locations</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Games
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="http://www.coolmath-games.com/0-papas-pizzeria">Papa's Pizzeria </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="http://www.coolmath-games.com/0-papas-freezeria">Papa's Freezeria</a>
+              <a class="dropdown-item" href="http://www.coolmath-games.com/0-papas-pancakeria">Papa's Pancakeria</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pizzeriasocial.html">Social Media</a>
+          </li>
+        </ul>
+        </div></style>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+      </nav>
+      <br />
+<img src="http://www.htmlcsscolor.com/preview/gallery/000000.png" width="1663" height="40">  
+      <br />
+      <br />
+    </nav>
+    
+    
+      <div class="alert alert-light" style = "font-family:freestyle script; font-size: 180%; text-align: alert">
+          Check out our new  <a href="#" class="alert-link">location </a>in Oakville, Ontario</div>
+    
+    <Center> <b>Oakville Location </b> </Center>  
+    <center> <p> 288 Kerr St, Oakville, ON </p> </center>
+    <center> <iframe width="685" height="500" frameborder="60" scrolling="yes" marginheight="60" marginwidth="60" iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2896.849505382508!2d-79.682499!3d43.442859!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b5cf6c521cdf9%3A0x88e90cbd69cf66de!2sFantastico+Pizza!5e0!3m2!1sen!2sca!4v1532579441145" ></iframe>" </iframe></iframe> </center> <style="border: #00008B 60px solid;" />
+    
+    <center>  <b> Hamilton Location </b></center>
+    
+    <center> <p> 310 Limeridge Rd, Hamilton, On</p> </center>
+    
+    <center> <iframe width="685" height="500" frameborder="60" scrolling="yes" marginheight="60" marginwidth="60" iframe src= https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.3106746819226!2d-79.9010468840838!3d43.22394557913831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c9addd3c70bf5%3A0x93199a8354a4fd31!2sLimeridge+Pizza+%26+Subs!5e0!3m2!1sen!2sca!4v1532581180395" ></iframe>" </iframe></iframe> </center> <style="border: #00008B 60px solid;" />
+    
+    <center> <b> Burlington Location</b></center>
+    <center> <p>4490 Fairview St, Burlington, On</p> </center>
+
+    <center> <iframe width="685" height="500" frameborder="60" scrolling="yes" marginheight="60" marginwidth="60" iframe src= https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92793.6219998313!2d-79.90995900919026!3d43.38119138944149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b604e76b080d1%3A0x3b05a48a899a99ab!2sBurlington+Pizza+Company!5e0!3m2!1sen!2sca!4v1532581406109" 
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+  </body>
+
+  <html> 
